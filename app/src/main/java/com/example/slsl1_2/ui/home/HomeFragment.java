@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.slsl1_2.Model.TaskModel;
+import com.example.slsl1_2.model.TaskModel;
 import com.example.slsl1_2.R;
 import com.example.slsl1_2.databinding.FragmentHomeBinding;
 import com.example.slsl1_2.ui.slideshow.FormFragment;

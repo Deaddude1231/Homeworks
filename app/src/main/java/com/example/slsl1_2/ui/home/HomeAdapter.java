@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.slsl1_2.Model.TaskModel;
+import com.example.slsl1_2.model.TaskModel;
 import com.example.slsl1_2.R;
 
 import org.jetbrains.annotations.NotNull;

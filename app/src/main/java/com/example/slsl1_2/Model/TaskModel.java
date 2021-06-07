@@ -1,4 +1,4 @@
-package com.example.slsl1_2.Model;
+package com.example.slsl1_2.model;
 
 import java.io.Serializable;
 
